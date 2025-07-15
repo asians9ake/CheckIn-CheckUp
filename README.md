@@ -39,7 +39,7 @@ This project uses an anonymized hospital admissions dataset that includes:
 ## 3. Installation & Setup  
 **To run this project locally:**
 ```bash
-git clone https://github.com/yourusername/CheckIn-CheckUp.git
+git clone https://github.com/asians9ake/CheckIn-CheckUp.git
 cd CheckIn-CheckUp
 pip install -r requirements.txt
 jupyter notebook CheckIn-CheckUp.ipynb
@@ -68,28 +68,28 @@ jupyter notebook CheckIn-CheckUp.ipynb
 ## 6. Visualizations  
 
 ### 🩺 Top Medical Conditions  
-![Top Medical Conditions](images/Topmedicalcondition.png)
+![Top Medical Conditions](Topmedicalcondition.png)
 
 ### 🧪 Test Result Distribution  
-![Test Result Distribution](images/Distributionoftestresult.png)
+![Test Result Distribution](Distributionoftestresult.png)
 
 ### 📈 Admission Trends  
-![Trends in Admission](images/Trendsinadmission.png)
+![Trends in Admission](Trendsinadmission.png)
 
 ### 🕒 Length of Stay by Condition  
-![Length of Stay](images/Lengthofstay.png)
+![Length of Stay](Lengthofstay.png)
 
 ### 💵 Billing Comparison  
-![Billing Comparison](images/Billingcomparison.png)
+![Billing Comparison](Billingcomparison.png)
 
 ### 🧾 Billing by Condition  
-![Billing by Condition](images/Billingdifference.png)
+![Billing by Condition](Billingdifference.png)
 
 ### 📊 Comparative Analysis  
-![Comparative Analysis](images/Comparativeanalysis.png)
+![Comparative Analysis](Comparativeanalysis.png)
 
 ### 📊 Final Dashboard  
-![Dashboard](images/Healthcareprojectdashboard.jpg)
+![Dashboard](Healthcareprojectdashboard.jpg)
 
 ---
 
@@ -104,19 +104,16 @@ jupyter notebook CheckIn-CheckUp.ipynb
 ## 8. Folder Structure
 ```
 CheckIn-CheckUp/
-├── data/
-│   └── raw_data.csv (or .xlsx if applicable)
-├── notebooks/
-│   └── CheckIn-CheckUp.ipynb
-├── images/
-│   ├── Topmedicalcondition.png
-│   ├── Distributionoftestresult.png
-│   ├── Trendsinadmission.png
-│   ├── Lengthofstay.png
-│   ├── Billingcomparison.png
-│   ├── Billingdifference.png
-│   ├── Comparativeanalysis.png
-│   └── Healthcareprojectdashboard.jpg
+├── CheckIn-CheckUp.ipynb
+├── Healthcare Project.xlsx
+├── Billingcomparison.png
+├── Billingdifference.png
+├── Comparativeanalysis.png
+├── Distributionoftestresult.png
+├── Healthcareprojectdashboard.jpg
+├── Lengthofstay.png
+├── Topmedicalcondition.png
+├── Trendsinadmission.png
 ├── README.md
 └── requirements.txt
 ```
