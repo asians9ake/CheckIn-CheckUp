@@ -36,18 +36,12 @@ This project uses an anonymized hospital admissions dataset that includes:
 
 ---
 
-## 3. Installation & Setup  
-**To run this project locally:**
-```bash
-git clone https://github.com/asians9ake/CheckIn-CheckUp.git
-cd CheckIn-CheckUp
-pip install -r requirements.txt
-jupyter notebook CheckIn-CheckUp.ipynb
-```
+
+
 
 ---
 
-## 4. Usage  
+## 3. Usage  
 1. Open the notebook in Jupyter.  
 2. Load the dataset.  
 3. Follow steps to clean the data, engineer features like Length of Stay, and visualize trends.  
@@ -55,7 +49,7 @@ jupyter notebook CheckIn-CheckUp.ipynb
 
 ---
 
-## 5. Key Findings  
+## 4. Key Findings  
 - ✅ **Balanced Demographics**: Male and female patients are almost equally represented.  
 - 🩺 **Top Medical Conditions**: Hypertension, Obesity, and Diabetes.  
 - 🧪 **Test Result Split**: Normal (33.35%), Abnormal (33.54%), Inconclusive (33.11%)  
@@ -65,7 +59,7 @@ jupyter notebook CheckIn-CheckUp.ipynb
 
 ---
 
-## 6. Visualizations  
+## 5. Visualizations  
 
 ### 🩺 Top Medical Conditions  
 ![Top Medical Conditions](Topmedicalcondition.png)
@@ -93,7 +87,7 @@ jupyter notebook CheckIn-CheckUp.ipynb
 
 ---
 
-## 7. Recommendations  
+## 6. Recommendations  
 - Focus early detection on high-stay conditions (e.g., Arthritis, Asthma)  
 - Prepare hospital resources in advance based on seasonal trends  
 - Educate patients to reduce emergency admissions  
@@ -101,7 +95,7 @@ jupyter notebook CheckIn-CheckUp.ipynb
 
 ---
 
-## 8. Folder Structure
+## 7. Folder Structure
 ```
 CheckIn-CheckUp/
 ├── CheckIn-CheckUp.ipynb
@@ -120,17 +114,15 @@ CheckIn-CheckUp/
 
 ---
 
-## 9. Future Work  
+## 8. Future Work  
 - Build predictive models for readmission risk or billing amount  
 - Use Streamlit to deploy an interactive dashboard  
 - Integrate more real-world hospital datasets
 
 ---
 
-## 10. License  
-This project is licensed under the **MIT License**.  
-Feel free to use, modify, and distribute with credit to the author.
 
----
 
-📌 *Created with curiosity and care by Ashutosh Singhania.*
+
+
+
