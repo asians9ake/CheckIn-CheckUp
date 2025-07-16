@@ -6,15 +6,14 @@
 
 ## 🔗 Table of Contents
 1. [Project Description](#project-description)  
-2. [Data Source](#data-source)  
-3. [Installation & Setup](#installation--setup)  
-4. [Usage](#usage)  
-5. [Key Findings](#key-findings)  
-6. [Visualizations](#visualizations)  
-7. [Recommendations](#recommendations)  
-8. [Folder Structure](#folder-structure)  
-9. [Future Work](#future-work)  
-10. [License](#license)
+2. [Data Source](#data-source)   
+3. [Usage](#usage)  
+4. [Key Findings](#key-findings)  
+5. [Visualizations](#visualizations)  
+6. [Recommendations](#recommendations)  
+7. [Folder Structure](#folder-structure)  
+8. [Future Work](#future-work)  
+9. [License](#license)
 
 ---
 
